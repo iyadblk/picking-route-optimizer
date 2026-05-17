@@ -116,8 +116,7 @@ typically cuts cold-chain exposure by 60-80 %.
 
 ## Live Demo
 
-> _Demo URL placeholder_ — deploy to Streamlit Community Cloud:
-> `https://picking-route-optimizer.streamlit.app`
+> `https://picking-route-optimizer.streamlit.app`](https://picking-route-optimizer-nywj6lxifzecaappv7tffod.streamlit.app/)
 
 ---
 
