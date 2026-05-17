@@ -180,7 +180,3 @@ picking-route-optimizer/
 ## Author
 
 **Iyad Belkadi**
-
-## License
-
-MIT — see [LICENSE](LICENSE).
